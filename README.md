@@ -1,4 +1,4 @@
-# ButtonError
+# ButtonError -- Inegrated with Sentry -- Double click the button after running on host server, Sentry catches the error.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
