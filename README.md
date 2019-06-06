@@ -1,4 +1,4 @@
-# ButtonError
+# ButtonError -- Inegrated with Sentry -- Double click on live button, Sentry catches the error
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
